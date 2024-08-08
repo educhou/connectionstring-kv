@@ -1,4 +1,4 @@
-# Como Armazenar e Usar Connection Strings do Azure Key Vault em Container Apps
+# Como Armazenar e Usar Connection Strings do Azure Key Vault em Container Apps e Application Gateway
 
 ## 1. Criar um Azure Key Vault
 Se você ainda não tiver um Key Vault, crie um através do Azure Portal, CLI ou ARM Template.
